@@ -69,6 +69,7 @@ Developed by: RegisterNumber:
 
 
 **RESULTS**
+
 THUS the implement encoder 8 to 3 in data flow modelling verilog and validating their functionallating using the functional tales..
 
 
